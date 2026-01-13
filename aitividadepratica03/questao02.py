@@ -12,4 +12,4 @@ elif imc < 25:
 elif imc < 30:
     print("Classificação: Sobrepeso")
 else:
-    print("Classificação: Obeso")101
+    print("Classificação: Obeso")
