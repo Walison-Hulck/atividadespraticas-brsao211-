@@ -24,7 +24,7 @@ while True:
 
     soma = 0 
 
-    for noto in nostas:
+    for nota in notas:1
         soma += nota
 
     media = soma / len(notas)
